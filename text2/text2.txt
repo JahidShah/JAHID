@@ -1,0 +1,1 @@
+I created a new Text2 folder and created a text2 file inside it
