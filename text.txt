@@ -1,4 +1,2 @@
 
-Finally i managed to push and pull :)
-
-and i am doing new changes in my text.txt file
+Master
